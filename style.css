@@ -1,0 +1,18 @@
+canvas {
+    background-color: black;
+
+}
+
+.contenedor {
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+.contenedor-contador {
+    display: inline-block;
+    margin-left: 3em;
+}
+
+p {
+    text-align: center;
+}
